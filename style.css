@@ -1,0 +1,63 @@
+body {
+    background-color: burlywood;
+}
+
+.slider {
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 900px;
+    text-align: center;
+}
+
+.image {
+    width: 600px;
+    height: 400px;
+}
+
+.button {
+    width: 80px;
+    height: 40px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.button:hover {
+    background-color: darkcyan;
+}
+
+.button-prev {
+    width: 80px;
+    height: 40px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.button-prev:hover {
+    background-color: darkcyan;
+}
+
+.button-next {
+    width: 80px;
+    height: 40px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.button-next:hover {
+    background-color: darkcyan;
+}
